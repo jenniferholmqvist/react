@@ -7,7 +7,6 @@ import AdminUpdate from "./Auth/AdminUpdate";
 import faker from "faker";
 import axios from "axios";
 
-import Form from "./Form";
 
 
 class App extends Component{

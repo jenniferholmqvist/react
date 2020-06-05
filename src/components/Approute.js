@@ -17,7 +17,7 @@ import AdminSida from "./AdminSida";
 import UserLogin from "./AuthUser/UserLogin";
 import UserPage from "./AuthUser/UserPage";
 
-import FirebaseTest from "./NotInUse/FirebaseTest";
+
 import UserProfile from "./AuthUser/UserProfile";
 import ContactForm from "./Forms/ContactForm";
 
@@ -40,7 +40,7 @@ const Approute= () => {
 
                 <Route path="/AdminUpdate" exact component={App}></Route>
 
-                <Route path="/FirebaseTest" exact component={FirebaseTest}></Route>
+
 
                 <Route path="/UserProfile" exact component={UserProfile}></Route>
 

@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 
-import firebase from "./FirebaseConfig";
+import firebase from "../FirebaseConfig";
 
 export default class ContactForm extends Component {
 

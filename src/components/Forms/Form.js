@@ -1,8 +1,8 @@
 import React , {Component} from "react";
 
 //--------Styles----------
-import "../style/_form.scss";
-import "../style/_buttons.scss";
+//import "../style/_form.scss";
+//import "../style/_buttons.scss";
 
 class Form extends Component {
     constructor(props){
